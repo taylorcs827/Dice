@@ -1,4 +1,4 @@
-document.getElementById("rollBtn").addEventListener("click", function() {
+document.querySelector("#rollBtn").addEventListener("click", function() {
   // Generate random numbers
   let randomNumber1 = Math.floor(Math.random() * 6) + 1;
   let randomNumber2 = Math.floor(Math.random() * 6) + 1;
