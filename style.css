@@ -56,5 +56,8 @@ footer {
     background-color: #4ECCA3;
     border: none;
     border-radius: 10px;
-    
+}
+
+#rollBtn:hover {
+  cursor: pointer;
 }
